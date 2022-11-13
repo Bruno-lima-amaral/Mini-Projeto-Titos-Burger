@@ -1,0 +1,12 @@
+
+-----------------Português----------------------------------------------------------
+
+Para melhor uso: Crie Um Banco de Dados Mysql com o Nome de "titos-burger" 
+usando "UTF-8" e no minimo uma tabela "tb_usuario" com os 
+campos "id_usuario", "nome_usuario" & "senha_usuario".
+
+------------------English---------------------------------------------------------
+
+For best use: Create a Mysql database with the name of "titos-burger" 
+using "UTF-8" and at least one table "tb_usuario" with the fields 
+"id_usuario", "name_usuario" & "password_usuario".
